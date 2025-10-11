@@ -44,45 +44,6 @@
 
 ---
 
-## 🛠️ Getting Started | Comenzar
-
-**EN:**
-
-\`\`\`bash
-# Clone the repository
-git clone https://github.com/MarcosConstantino2003/fruterina.git
-
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Open http://localhost:3000
-\`\`\`
-
-**ES:**
-
-\`\`\`bash
-# Clonar el repositorio
-git clone https://github.com/MarcosConstantino2003/fruterina.git
-
-# Instalar dependencias
-npm install
-
-# Ejecutar servidor de desarrollo
-npm run dev
-
-# Abrir http://localhost:3000
-\`\`\`
-
----
-
-## 🌐 Live Demo | Demo en Vivo
-
-**Visit | Visita:** [fruterina on Vercel](https://vercel.com/marcosconstantino2003s-projects/v0-fruterina-website-clone)
-
----
 
 ## 👨‍💻 Developer | Desarrollador
 
