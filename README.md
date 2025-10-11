@@ -2,7 +2,7 @@
 
 *Fresh organic fruits, delivered with love | Frutas orgánicas frescas, entregadas con amor*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)]([https://vercel.com/marcosconstantino2003s-projects/v0-fruterina-website-clone](https://fruterina.vercel.app/))
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)]([https://vercel.com/marcosconstantino2003s-projects/v0-fruterina-website-clone](https://fruterina.vercel.app/)
 
 ---
 
