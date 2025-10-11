@@ -1,30 +1,105 @@
-# Fruterina website clone
+# 🍊 fruterina
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+*Fresh organic fruits, delivered with love | Frutas orgánicas frescas, entregadas con amor*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/marcosconstantino2003s-projects/v0-fruterina-website-clone)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/nCejqcV4XvO)
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🌟 Overview | Descripción
 
-## Deployment
+**EN:** fruterina is a modern, bilingual web platform dedicated to bringing the freshest organic fruits directly to your doorstep. Built with cutting-edge web technologies, it features a sleek design with dark mode support and seamless language switching between English and Spanish.
 
-Your project is live at:
+**ES:** fruterina es una plataforma web moderna y bilingüe dedicada a llevar las frutas orgánicas más frescas directamente a tu puerta. Construida con tecnologías web de vanguardia, cuenta con un diseño elegante con soporte de modo oscuro y cambio fluido de idioma entre inglés y español.
 
-**[https://vercel.com/marcosconstantino2003s-projects/v0-fruterina-website-clone](https://vercel.com/marcosconstantino2003s-projects/v0-fruterina-website-clone)**
+---
 
-## Build your app
+## ✨ Features | Características
 
-Continue building your app on:
+**EN:**
+- 🌓 **Dark Mode** - Toggle between light and dark themes
+- 🌍 **Bilingual** - Switch seamlessly between English and Spanish
+- 🍎 **Product Showcase** - Browse our premium organic fruit selection
+- 📱 **Responsive Design** - Perfect experience on any device
+- ⚡ **Fast & Modern** - Built with Next.js 15 and React 19
 
-**[https://v0.app/chat/projects/nCejqcV4XvO](https://v0.app/chat/projects/nCejqcV4XvO)**
+**ES:**
+- 🌓 **Modo Oscuro** - Alterna entre temas claro y oscuro
+- 🌍 **Bilingüe** - Cambia sin problemas entre inglés y español
+- 🍎 **Catálogo de Productos** - Explora nuestra selección premium de frutas orgánicas
+- 📱 **Diseño Responsivo** - Experiencia perfecta en cualquier dispositivo
+- ⚡ **Rápido y Moderno** - Construido con Next.js 15 y React 19
 
-## How It Works
+---
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 🚀 Tech Stack | Stack Tecnológico
+
+- **Framework:** Next.js 15 (App Router)
+- **UI Library:** React 19
+- **Styling:** Tailwind CSS v4
+- **Components:** shadcn/ui
+- **Fonts:** Geist Sans & Geist Mono
+- **Deployment:** Vercel
+- **Analytics:** Vercel Analytics
+
+---
+
+## 🛠️ Getting Started | Comenzar
+
+**EN:**
+
+\`\`\`bash
+# Clone the repository
+git clone https://github.com/MarcosConstantino2003/fruterina.git
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Open http://localhost:3000
+\`\`\`
+
+**ES:**
+
+\`\`\`bash
+# Clonar el repositorio
+git clone https://github.com/MarcosConstantino2003/fruterina.git
+
+# Instalar dependencias
+npm install
+
+# Ejecutar servidor de desarrollo
+npm run dev
+
+# Abrir http://localhost:3000
+\`\`\`
+
+---
+
+## 🌐 Live Demo | Demo en Vivo
+
+**Visit | Visita:** [fruterina on Vercel](https://vercel.com/marcosconstantino2003s-projects/v0-fruterina-website-clone)
+
+---
+
+## 👨‍💻 Developer | Desarrollador
+
+**Marcos Constantino**
+
+[![GitHub](https://img.shields.io/badge/GitHub-MarcosConstantino2003-black?style=flat&logo=github)](https://github.com/MarcosConstantino2003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marquitosconstantino-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marquitosconstantino/)
+
+---
+
+## 📝 License | Licencia
+
+**EN:** This project is open source and available under the MIT License.
+
+**ES:** Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
+
+---
+
+**Built with ❤️ using [v0.app](https://v0.app) | Construido con ❤️ usando [v0.app](https://v0.app)**

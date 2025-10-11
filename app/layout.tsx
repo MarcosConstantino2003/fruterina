@@ -9,10 +9,13 @@ import { LanguageProvider } from "@/contexts/language-context"
 import { ThemeProvider } from "@/contexts/theme-provider"
 
 export const metadata: Metadata = {
-  title: "fruterina - Fresh Organic Fruits Delivered",
+  title: "fruterina",
   description:
     "Discover the freshest organic fruits delivered to your door. Premium quality, 100% organic, fast delivery.",
   generator: "v0.app",
+  icons: {
+    icon: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({
