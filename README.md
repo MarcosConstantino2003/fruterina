@@ -6,33 +6,33 @@
 
 ---
 
-## 🌟 Overview | Descripción
+## Overview | Descripción
 
-**EN:** fruterina is a modern, bilingual web platform dedicated to bringing the freshest organic fruits directly to your doorstep. Built with cutting-edge web technologies, it features a sleek design with dark mode support and seamless language switching between English and Spanish.
+fruterina is a modern web platform dedicated to bringing the freshest organic fruits directly to your doorstep.
 
-**ES:** fruterina es una plataforma web moderna y bilingüe dedicada a llevar las frutas orgánicas más frescas directamente a tu puerta. Construida con tecnologías web de vanguardia, cuenta con un diseño elegante con soporte de modo oscuro y cambio fluido de idioma entre inglés y español.
+fruterina es una plataforma web moderna y bilingüe dedicada a llevar las frutas orgánicas más frescas directamente a tu puerta. 
 
 ---
 
-## ✨ Features | Características
+##  Features | Características
 
 **EN:**
-- 🌓 **Dark Mode** - Toggle between light and dark themes
-- 🌍 **Bilingual** - Switch seamlessly between English and Spanish
-- 🍎 **Product Showcase** - Browse our premium organic fruit selection
-- 📱 **Responsive Design** - Perfect experience on any device
-- ⚡ **Fast & Modern** - Built with Next.js 15 and React 19
+-  **Dark Mode** - Toggle between light and dark themes
+-  **Bilingual** - Switch seamlessly between English and Spanish
+-  **Product Showcase** - Browse our premium organic fruit selection
+-  **Responsive Design** - Perfect experience on any device
+-  **Fast & Modern** - Built with Next.js 15 and React 19
 
 **ES:**
-- 🌓 **Modo Oscuro** - Alterna entre temas claro y oscuro
-- 🌍 **Bilingüe** - Cambia sin problemas entre inglés y español
-- 🍎 **Catálogo de Productos** - Explora nuestra selección premium de frutas orgánicas
-- 📱 **Diseño Responsivo** - Experiencia perfecta en cualquier dispositivo
-- ⚡ **Rápido y Moderno** - Construido con Next.js 15 y React 19
+-  **Modo Oscuro** - Alterna entre temas claro y oscuro
+-  **Bilingüe** - Cambia sin problemas entre inglés y español
+-  **Catálogo de Productos** - Explora nuestra selección premium de frutas orgánicas
+-  **Diseño Responsivo** - Experiencia perfecta en cualquier dispositivo
+-  **Rápido y Moderno** - Construido con Next.js 15 y React 19
 
 ---
 
-## 🚀 Tech Stack | Stack Tecnológico
+##  Tech Stack | Stack Tecnológico
 
 - **Framework:** Next.js 15 (App Router)
 - **UI Library:** React 19
@@ -44,22 +44,3 @@
 
 ---
 
-
-## 👨‍💻 Developer | Desarrollador
-
-**Marcos Constantino**
-
-[![GitHub](https://img.shields.io/badge/GitHub-MarcosConstantino2003-black?style=flat&logo=github)](https://github.com/MarcosConstantino2003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marquitosconstantino-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marquitosconstantino/)
-
----
-
-## 📝 License | Licencia
-
-**EN:** This project is open source and available under the MIT License.
-
-**ES:** Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
-
----
-
-**Built with ❤️**
